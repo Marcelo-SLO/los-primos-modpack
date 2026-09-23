@@ -1,14 +1,9 @@
 {
-  "ModpackName": "Los Primos",
-  "Version": "1.0.1",
-  "MinecraftVersion": "26.2",
-  "FabricLoaderVersion": "0.19.5",
-  "Files": [
-  {
-    "Path": "teste-los-primos.txt",
-    "Url": "https://raw.githubusercontent.com/Marcelo-SLO/los-primos-modpack/main/teste-los-primos.txt",
-    "Sha256": "93141F20E956DFB1E92A853F62D17D5419F5925E183295F1FEF41BA5C803EDDA",
-    "Required": true
-  }
-]
+    "ModpackName":  "Los Primos",
+    "Version":  "1.0.2",
+    "MinecraftVersion":  "26.2",
+    "FabricLoaderVersion":  "0.19.5",
+    "Files":  [
+
+              ]
 }
