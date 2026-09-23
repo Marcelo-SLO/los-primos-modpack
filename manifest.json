@@ -1,9 +1,14 @@
 {
     "ModpackName":  "Los Primos",
-    "Version":  "1.0.2",
+    "Version":  "1.0.3",
     "MinecraftVersion":  "26.2",
     "FabricLoaderVersion":  "0.19.5",
     "Files":  [
-
+                  {
+                      "Path":  "mods/fabric-api-0.158.0+26.2.jar",
+                      "Url":  "https://raw.githubusercontent.com/Marcelo-SLO/los-primos-modpack/main/files/mods/fabric-api-0.158.0+26.2.jar",
+                      "Sha256":  "a4510eb2e9d4057ff20f751e420d0618598813ab9695b6f793a53c2883808dac",
+                      "Required":  true
+                  }
               ]
 }
