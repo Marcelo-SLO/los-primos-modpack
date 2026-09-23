@@ -1,6 +1,6 @@
 {
     "ModpackName":  "Los Primos",
-    "Version":  "1.0.3",
+    "Version":  "1.0.4",
     "MinecraftVersion":  "26.2",
     "FabricLoaderVersion":  "0.19.5",
     "Files":  [
@@ -8,6 +8,18 @@
                       "Path":  "mods/fabric-api-0.158.0+26.2.jar",
                       "Url":  "https://raw.githubusercontent.com/Marcelo-SLO/los-primos-modpack/main/files/mods/fabric-api-0.158.0+26.2.jar",
                       "Sha256":  "a4510eb2e9d4057ff20f751e420d0618598813ab9695b6f793a53c2883808dac",
+                      "Required":  true
+                  },
+                  {
+                      "Path":  "mods/modmenu-20.0.2.jar",
+                      "Url":  "https://raw.githubusercontent.com/Marcelo-SLO/los-primos-modpack/main/files/mods/modmenu-20.0.2.jar",
+                      "Sha256":  "1bf32f327b2257266e9dbd00b394800885c3a7c5ff86dc62be0dec129c1da482",
+                      "Required":  true
+                  },
+                  {
+                      "Path":  "mods/placeholder-api-3.1.0-beta.1+26.2.jar",
+                      "Url":  "https://raw.githubusercontent.com/Marcelo-SLO/los-primos-modpack/main/files/mods/placeholder-api-3.1.0-beta.1+26.2.jar",
+                      "Sha256":  "c2ca2b5c397a0c198a32e7af68d2d0a011bc2c7baeae5cffd3996efd65c5069e",
                       "Required":  true
                   }
               ]
