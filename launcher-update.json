@@ -1,7 +1,7 @@
 ﻿{
-    "Version":  "1.0.10",
-    "InstallerUrl":  "https://github.com/Marcelo-SLO/los-primos-modpack/releases/download/launcher-v1.0.10/LosPrimosLauncher-Setup-1.0.10.exe",
-    "Sha256":  "A14945BB606AD2A57071121D6B6F7C044F0670F6FEC9BA50D7DCE57110EB7FF0",
-    "Notes":  "Atualizacao do Los Primos Launcher 1.0.10.",
+    "Version":  "1.0.11",
+    "InstallerUrl":  "https://github.com/Marcelo-SLO/los-primos-modpack/releases/download/launcher-v1.0.11/LosPrimosLauncher-Setup-1.0.11.exe",
+    "Sha256":  "1118EB166AB81D99AFAB041AB1FCEBB96943B97B5AB9FCD7EB7E0188F70DF679",
+    "Notes":  "Atualizacao do Los Primos Launcher 1.0.11.",
     "Mandatory":  false
 }
