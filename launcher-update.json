@@ -1,7 +1,8 @@
-﻿{
+{
     "Version":  "1.0.21",
     "InstallerUrl":  "https://github.com/Marcelo-SLO/los-primos-modpack/releases/download/launcher-v1.0.21/LosPrimosLauncher-Setup-1.0.21.exe",
     "Sha256":  "D72B4A13C43629D44A8FC812A922A7C0F1CC88D3F64BBDC8B131A3163E68D23F",
     "Notes":  "- Corrigida a deteccao de novas versoes do modpack logo apos a publicacao.\r\n- O launcher agora consulta a API do GitHub para evitar manifesto antigo em cache.\r\n- Adicao e remocao de mods agora fazem o botao ATUALIZAR aparecer de forma mais confiavel.\r\n- O card de versao mostra a versao realmente instalada ate a sincronizacao terminar.\r\n- Corrigido o visual do botao ATUALIZAR: sem icone de play e com texto centralizado.",
-    "Mandatory":  false
+    "Mandatory":  false,
+    "Signature":  "g9OUdbiuVqsWWrnenNQBNHhyD+gZbOX7lSGDFJoH9M6XbHm2dq6KwnrCmuycpbFCtpfjwHwLxh0dOWVSTCIEtOIyDtj91skgHUXjxfuzWAth82AFeLTna0bsZC/AudFgxRdEdyJe476tchSBRb6XJ4kN8Fcl/Kl8d/sicScGFGRW/W1iezEq+23u6RwLWO6A/G9MPa8rPz6KvhsITpXBYOpjQJg8BTB1gD12XjkXp7qBmLfww6bsSoEeNpzIBaYIdAdQJoUEJAJBwQPtpa9CJaD0H88ZxCcGugWygDBoPSxj9SuQutHyxJVJ4AjcKc9DIMDnAT7bRXCRMy3SHelYw1fDo6F9kmHFrwHTqJ+/woQfbqTi03K6/EZkDjskUP+sHT/vrMLtngeePo5GrzL+Qa7EeQExSW61p/x/LEGFqjHeCEx9FM1jWwaXabXTJYiLoRQVPYqaBTLFU+iU9B3iwvZ9GwQUst9k4adNiBob6ETdFjI29kjEdzJKNP76iCfv"
 }
