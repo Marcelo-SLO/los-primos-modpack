@@ -1,8 +1,8 @@
 {
-    "Version":  "1.0.22",
-    "InstallerUrl":  "https://github.com/Marcelo-SLO/los-primos-modpack/releases/download/launcher-v1.0.22/LosPrimosLauncher-Setup-1.0.22.exe",
-    "Sha256":  "B3AD105F6FCF7FA10CEF81F73E5FE074EC2AB78B1F99FA8216C10638457D809A",
-    "Notes":  "- Atualizacoes do launcher e do modpack agora possuem assinatura criptografica RSA-3072 + SHA-256.\r\n- O launcher valida uma lista assinada de contas Minecraft autorizadas do grupo Los Primos.\r\n- Publicacao de seguranca e manifestos usa commits Git atomicos e verificacao do commit remoto.\r\n- Adicionado diagnostico completo antes da publicacao para conferir assinaturas, arquivos, Release e build.",
+    "Version":  "1.0.23",
+    "InstallerUrl":  "https://github.com/Marcelo-SLO/los-primos-modpack/releases/download/launcher-v1.0.23/LosPrimosLauncher-Setup-1.0.23.exe",
+    "Sha256":  "F6CD95DE46C1176ADBDF5EC3FF3243462969413F785D30CCB907BB73DDC1C609",
+    "Notes":  "- Corrigida a assinatura criptografica no Windows: PowerShell e launcher agora usam exatamente LF (\\n) no payload assinado.\r\n- Corrigida a validacao de authorized-players.json e manifest.json pelo proprio EXE.\r\n- Removida dependencia de ordenacao por cultura no payload criptografico.\r\n- Diagnostico continua bloqueando a publicacao se o proprio EXE nao validar grupo, modpack e auto-update.",
     "Mandatory":  false,
-    "Signature":  "lA+LdT9CbmuC6dCh3WdNnDtR8TIsk6TB8yvqd9tKF8mSN4sEMnZf4JB5gOMx2DetKdRvN/F1HWFWN2VKzcDHTu/v2KoIEWBbLf8r0xxkKR4muhfZmt+zkPuI6DYsYFN2yTf15EBus7Gji0RTrsyNRNEmIph33+kU6AqlVrqGViPrrXTBX5dvmXqOgicV5E6pyuT06fma7ram1qpxTQCXmfNYwcoOvoiS2HvzvIdMvtTt+EwCoadune8lrn3scySIAwsQ0EEKpmpvKiBP9fYBqm4QKQ05HwN0YqBrfF2YOHq9DwaZergVqDyx8sxOtlyvmFaOPK83PIkPrrkLtIIkQImoSneKtHilYNDrTa13DZzYMv8HgDD/MkKRLNtvPr4S6EA/W2e5rY2g1yrKJpG5FmnoFK96tpjnZ5XV1sR/31y3u3dbQlx6eCHjnjfc+ZLGaYJu9ZQF9So2Ud1lOJ6D70CJTcvWS9GSLDkPKIKEzMm92fFU+aua00W+fZZ85JXV"
+    "Signature":  "bftOieVpkKyC5BpnuOIw0m6BOaCR0mlS23ug7bvNu8vqoV1nldFQKyUvWUefS/mHH0Xh3PX9xaiMy3XmSVmhpiBou4NVwjDLoYpOqjKJDWqvWbIXTdbUZ8Qb93mx6soFoX+7I8QdhP3x85ws7kQJ1nGNn6A63p8bBLPH9jjiGMyckA3k2VUA71V9r+cUu5ft2wndyMQpVub9Vj6qNb1wtkd4mGD6V2/Yv/AOyHLPGQyXN7CaztIJShOOPuT/UgxHorSaeyTJkIz/tnlA2Yp+X2VjSxm1xEhfRkar2KIDICnEYf4sOieByVm88rDENz+ihhDS/I9WwpyOYUzFgOP0FTkUp7sANIDW2ppcZqnkhCyJkJTzQlOhCHBG0iLWZqqKSnrL/sOi+hms5ttquPVl+VsyCDoQlVS2TfjEnWwxhOrJuYiu3bYPKf/cIAssCCeyxpWNdHrlSQGtm3XTsJIxrXrlQdymRSzzDaS8gQVaKQOP9aE0lMJlLscraMfk7U8b"
 }
