@@ -1,7 +1,7 @@
 ﻿{
-    "Version":  "1.0.17",
-    "InstallerUrl":  "https://github.com/Marcelo-SLO/los-primos-modpack/releases/download/launcher-v1.0.17/LosPrimosLauncher-Setup-1.0.17.exe",
-    "Sha256":  "159EF88523E4BD7800E298AAD8D791CC2045F00F4A7288B55B835BA98B6053BE",
-    "Notes":  "- Download da atualizacao mostra tamanho baixado, total, velocidade e tempo restante.\r\n- Agora e possivel cancelar o download da atualizacao sem fechar o launcher.\r\n- Arquivos parciais de atualizacao sao limpos automaticamente ao cancelar ou ocorrer erro.",
+    "Version":  "1.0.18",
+    "InstallerUrl":  "https://github.com/Marcelo-SLO/los-primos-modpack/releases/download/launcher-v1.0.18/LosPrimosLauncher-Setup-1.0.18.exe",
+    "Sha256":  "2FE0EE9346A952FEDDC277BE4A076219DDFEEADE9365F768544594C0EC33354F",
+    "Notes":  "- Melhorias e correcoes gerais do Los Primos Launcher.",
     "Mandatory":  false
 }
