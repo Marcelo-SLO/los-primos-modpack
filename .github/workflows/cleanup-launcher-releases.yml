@@ -1,0 +1,58 @@
+name: Limpar releases antigas
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Manter somente as 5 releases mais recentes do launcher
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const keep = 5;
+
+            const releases = await github.paginate(
+              github.rest.repos.listReleases,
+              {
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                per_page: 100
+              }
+            );
+
+            const launcherReleases = releases
+              .filter(r => !r.draft && r.tag_name.startsWith("launcher-v"))
+              .sort((a, b) =>
+                new Date(b.published_at || b.created_at) -
+                new Date(a.published_at || a.created_at)
+              );
+
+            const antigas = launcherReleases.slice(keep);
+
+            for (const release of antigas) {
+              console.log(`Apagando ${release.tag_name}`);
+
+              await github.rest.repos.deleteRelease({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                release_id: release.id
+              });
+
+              try {
+                await github.rest.git.deleteRef({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  ref: `tags/${release.tag_name}`
+                });
+              } catch (e) {
+                console.log(`Tag ${release.tag_name} já removida ou não encontrada.`);
+              }
+            }
