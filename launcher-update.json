@@ -1,8 +1,8 @@
 {
-    "Version":  "1.0.24",
-    "InstallerUrl":  "https://github.com/Marcelo-SLO/los-primos-modpack/releases/download/launcher-v1.0.24/LosPrimosLauncher-Setup-1.0.24.exe",
-    "Sha256":  "AAC89337503FB977FC122D48E24473CE620D530AD4B8621422A2D78044663AC4",
-    "Notes":  "- Nova aba CONFIGURAÇÕES com escolha de memória RAM do Minecraft (2, 4, 6 ou 8 GB).\r\n- As preferências do launcher agora são salvas automaticamente no Windows.\r\n- Adicionado REPARAR JOGO para verificar Minecraft, Fabric, mods, texturas e configs e corrigir arquivos ausentes ou alterados.\r\n- Adicionados atalhos para abrir a pasta do jogo e a pasta de logs.\r\n- Nova opção para fechar o launcher automaticamente depois que o Minecraft iniciar.\r\n- A aba CONFIGURAÇÕES mostra as versões do Launcher, Modpack, Minecraft e Fabric Loader.",
+    "Version":  "1.0.25",
+    "InstallerUrl":  "https://github.com/Marcelo-SLO/los-primos-modpack/releases/download/launcher-v1.0.25/LosPrimosLauncher-Setup-1.0.25.exe",
+    "Sha256":  "2982C0675B61523AF748BD907228C741929A5A420CA5C68E67487D26A667986C",
+    "Notes":  "- Melhorias e correcoes gerais do Los Primos Launcher.",
     "Mandatory":  false,
-    "Signature":  "de1RXnsTQrkeI2EtdmN08V6SHvqvuL+V0cYXHlCC4Z+n2yxne3VQbHTUEcKLEppYpaP+pNVRrpXBlhaZQYID0w7hReLS05FtJRIL7a1d6yj3VN3MVTlkZKh3Okfj0M9YNIlVz0QwrY59NIAqCQINkGs40zb/HFIAf73VtS/J/8G8pIuoD1xaRFOWO+2x73yWsBwExUOub5TuyH18/7r7M1ZouvvqgBTmF3n5DTPjevID9mHEwGFSvrxOIlz437BNE8JReKgkt49xUIzMDifa/tWY2P8qvfayJLIa9eDMggga2IsFNxgg2xlBSNTKcqLT6VIR7J1wkQxUYZMEDQTGvIF3miAWyG/9sA/13bC5PvljpHEs2rVS5LcIAtWQoLDpTyg8L3Nf+Zn5Q+SRzc39RcDlu+PUt+n4wwRyvUOAOAMR+89oz7bMEYs+gY1PqnIcDKYG/xFF89awn9X4PF/kgOFzy8gPuxHnxvatBrLTgnL4vbVSykD7PqfHz+TvUxHj"
+    "Signature":  "WTRG6FZeBqG3VrR6wn5a7qCUUa6czf2L8ISbakpwulPQPM8ZmkuqNzZ6soBdwmQGgM2nIQFtVPQ4c5d+hRgJpRS/AfTV9Z/Wdg5HimfknYuyoNGslNAfxCuc0pTe7BidzwL2V2m3tgzojGW1kXscx8V4Wv1gEHgc+sZ0jETBomKBUSkY4M9CBUzPZ9IPZuSeSPf5a05R5a6MHg+QrcWLsz9KLyyY+9DNVNTRaLXKdY+7rTmwZYmR9j+pV6ezd/UYA4kt6KKDS7FR0m37tzzzlxhn8jVL1L5Cxo5Ot7UsLJsQHrRkWcycMcwFkAZoxNQ6p7hqeXZS8qrSlhLfsyRWaWOTbrbyNFkgNp/i1ZH4vDvpivBIfRj+fHOA3EuS4UJXkHtPmHhvZn9fXIG9DakZT7dJGY1kw3MMYkAcb2+3YCAfV9bQCZjlfEEenTZb2bXqusIVaKFa+6syacCKGArcNEEIq8YHwxZrweyEzk0SYlXE0Z7PH8QZzZwoqMXkFb74"
 }
