@@ -1,8 +1,8 @@
 {
-    "Version":  "1.0.25",
-    "InstallerUrl":  "https://github.com/Marcelo-SLO/los-primos-modpack/releases/download/launcher-v1.0.25/LosPrimosLauncher-Setup-1.0.25.exe",
-    "Sha256":  "2982C0675B61523AF748BD907228C741929A5A420CA5C68E67487D26A667986C",
-    "Notes":  "- Melhorias e correcoes gerais do Los Primos Launcher.",
+    "Version":  "1.0.26",
+    "InstallerUrl":  "https://github.com/Marcelo-SLO/los-primos-modpack/releases/download/launcher-v1.0.26/LosPrimosLauncher-Setup-1.0.26.exe",
+    "Sha256":  "246E27834BD64280F85C00AE544033FC09C6F11B1D59BB2DA8D5E4191D6034B0",
+    "Notes":  "- Nova aba MODS com lista dos mods oficiais do modpack.\r\n- Exibe versão, arquivo e estado instalado/pendente de cada mod.\r\n- Pesquisa de mods e resumo com total, instalados e pendentes.\r\n- A aba usa o manifesto assinado e verifica os arquivos locais por SHA-256.",
     "Mandatory":  false,
-    "Signature":  "WTRG6FZeBqG3VrR6wn5a7qCUUa6czf2L8ISbakpwulPQPM8ZmkuqNzZ6soBdwmQGgM2nIQFtVPQ4c5d+hRgJpRS/AfTV9Z/Wdg5HimfknYuyoNGslNAfxCuc0pTe7BidzwL2V2m3tgzojGW1kXscx8V4Wv1gEHgc+sZ0jETBomKBUSkY4M9CBUzPZ9IPZuSeSPf5a05R5a6MHg+QrcWLsz9KLyyY+9DNVNTRaLXKdY+7rTmwZYmR9j+pV6ezd/UYA4kt6KKDS7FR0m37tzzzlxhn8jVL1L5Cxo5Ot7UsLJsQHrRkWcycMcwFkAZoxNQ6p7hqeXZS8qrSlhLfsyRWaWOTbrbyNFkgNp/i1ZH4vDvpivBIfRj+fHOA3EuS4UJXkHtPmHhvZn9fXIG9DakZT7dJGY1kw3MMYkAcb2+3YCAfV9bQCZjlfEEenTZb2bXqusIVaKFa+6syacCKGArcNEEIq8YHwxZrweyEzk0SYlXE0Z7PH8QZzZwoqMXkFb74"
+    "Signature":  "KXWf5fynOY4ztavtyHmUB42G5JSvwf5AGZ/UJJu3EamhgVga9QxSh0sNCFUnXUR1fAJqDu+e6DU1/YZR2GfcDLXJ/qz5ps8o+/y/S9fGApP+rpzBZRZQ15siE9QEzoS58SLNTItChugotpcW8i7DHfDbM4OFroVEzn2Py9Whtl0XNh/xol8q9sx6qkoEKeVY2xYFkYpdqHTNgF9oIrQ6la3vErpdgmhnyGm5riWx464YH+hWBji+/ilxPYYv7ToVeoBat+52RBxE2AdPTL9v936ibvXQC9JRg2bQ0M5ubl2pRboQWHEjweN59X3nBIVnvS4CjY3P2u8JtmsFjCOlN0+fTiThyaCJwF1mtYgzmS+xkiN86/kGQ1+ga5eNeSxwCoSUI0d7AtCkY6tgijhv75RHfnJiUXhgyRvbHsXmam+Ov5S5hdAiVMzWhNZyv8Rg6QfWQgL+cs7zF5SbJgZHyCHerQdd2pfoOL2rzVPitWZnOqjh1NoFSssir0oyDle+"
 }
