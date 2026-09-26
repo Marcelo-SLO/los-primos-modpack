@@ -1,6 +1,6 @@
 {
     "ModpackName":  "Los Primos",
-    "Version":  "1.0.10",
+    "Version":  "1.0.11",
     "MinecraftVersion":  "26.2",
     "FabricLoaderVersion":  "0.19.5",
     "Files":  [
@@ -11,17 +11,11 @@
                       "Required":  true
                   },
                   {
-                      "Path":  "mods/modmenu-20.0.2.jar",
-                      "Url":  "https://raw.githubusercontent.com/Marcelo-SLO/los-primos-modpack/main/files/mods/modmenu-20.0.2.jar",
-                      "Sha256":  "1bf32f327b2257266e9dbd00b394800885c3a7c5ff86dc62be0dec129c1da482",
-                      "Required":  true
-                  },
-                  {
                       "Path":  "mods/placeholder-api-3.1.0-beta.1+26.2.jar",
                       "Url":  "https://raw.githubusercontent.com/Marcelo-SLO/los-primos-modpack/main/files/mods/placeholder-api-3.1.0-beta.1%2B26.2.jar",
                       "Sha256":  "c2ca2b5c397a0c198a32e7af68d2d0a011bc2c7baeae5cffd3996efd65c5069e",
                       "Required":  true
                   }
               ],
-    "Signature":  "IQNX+BNTLNCfNCrElm94wg9kTyCAhjW0WE0MYQhcU6oNjsTmcmThqgHWeWsXAioslVsUPM51ij4nSgW7ranP6cGQ1kcl73mJhRkqveJBeFx2HKrQiz+WNQYCNWadXpgyenG48pXdJLP34e8c2VcK/+uv49N5cc86Z2gd1koA7EbUvHsZcK8g30WC+hwLh4Q0cdV3lAAT5ljZkiYtq/6G4wnD3Wy5U8cvQ8OuB6ZafBTXBHfhfA2nwQwn53YV7O/gwGLzxCpyrD+r03amlu1nOjX8XXVCGcEExIOwbDarg0NzrvKupnhack7hgW0DeqAdhZRSd8oszc5XLZvY8ZDvWbU4AA3m7vQf1KcMmyDt4DkZvN4L8oDh6NBg70KR07RL1ZXKotK+RFeyezc5shWPdXYNyvbi8Ugn1f1FA5kVYBP+PSLOts3lRcEpM088O83/paBGFkp4smtoZOx6VmhCAf2uAg4neUjnCVWKydKdmQNAHBy+fDQ0pBmnigGzk5eK"
+    "Signature":  "N1pvdn5r4zTC2LcQyP5TweUGV4OTKjpZq/xUEHszduFLQbt+XLGs+WY1KvRHWUjSJGGh//CLMfntOoV9jFFM8JLPG+xkhhh3Y12Jk89OWRXvw8o0iJaCkyZ71sxrhtbx0Ep22FVhUJJkp2/1cz0GKMJScnWcAKvTWWYGwzPxQ35b2v/P5GAUsemFFVlNYBhmTEcFDPi+NIdabu/w5BQverdvMhrGXS5IMczX6LGy9RU1CLXxWh/msK3lrrN7msXwrIhnsDqGSBy58H+v/K3dOn/9Jm7qTqfVu4r4Zdcugts7BosY5YmbPaCNL/mliy/SVPZnQlsDsNtfH8JLhGAkmm37QkVAtVr8a9Cxlk/kpBmGHcT5TR0kacnbrw5DftGCEwNj0wi6qL20c62rwPZmz0HvlFG1tSZ9vho4XG7wbRNyekmZptGiizrfqRr0+ycLp+MwpA3/jXZ40Gbb5xKnPvhld7fyCHlfASLDON4BijWiY+uULNx+Mryj84v/tWb5"
 }
