@@ -1,8 +1,8 @@
 {
-    "Version":  "1.0.30",
-    "InstallerUrl":  "https://github.com/Marcelo-SLO/los-primos-modpack/releases/download/launcher-v1.0.30/LosPrimosLauncher-Setup-1.0.30.exe",
-    "Sha256":  "D5C1EDC92A6C24F65E5554DA07045876772574BEEB5D72D974B4A3C23E143757",
-    "Notes":  "- Interface refinada e mais nítida.\r\n- Corrigida a renderização de textos e elementos em diferentes tamanhos de janela.\r\n- Melhorada a adaptação da tela HOME ao redimensionar o launcher.\r\n- Os cinco gorilas agora permanecem visíveis e em destaque em janela normal e maximizada.\r\n- Corrigidos pequenos desalinhamentos e bordas da interface.",
+    "Version":  "1.0.31",
+    "InstallerUrl":  "https://github.com/Marcelo-SLO/los-primos-modpack/releases/download/launcher-v1.0.31/LosPrimosLauncher-Setup-1.0.31.exe",
+    "Sha256":  "25CD1C7AE6F269A947A0BCA017F93BCF061E3345E27419080843D905CB4B7105",
+    "Notes":  "- Preparado o launcher para futuras atualizações de Minecraft e Fabric.\r\n- Centralizado o controle das versões do jogo e Fabric Loader.\r\n- Melhorada a validação de compatibilidade antes de publicar atualizações.\r\n- Nenhuma mudança na versão atual do Minecraft 26.2 ou Fabric Loader 0.19.5.",
     "Mandatory":  false,
-    "Signature":  "GqBz275ZAOf1xSqaPJS88/OE+jT6/2bchy7nnB66ukzNIhkzoej7YOoUSroixf4mjAvK5qj0DCEf4EZQxb0VvIrZ5KivvAcgDdI8nTxqwmzds+n5Yaeia8v5kMGu6z47GEYRn/iKiXB/gQHy6fafIPiPaKNgVJ41YSxGyGEOrSMJSo9NR77vxyaYK1NxVMe4T95r+CkUHs+eVdNmHevPcQfGJPIJbtzK3faHHwMK/HH9PuefmDsWhGV1W9TSmJLp3H1ZAAkVXozmDPYR5fK45JubieyJRcbgCLyNJxTGKNXPqeQtkm1KFoZSxABgOTEarNMAdxv0Tg+2nWbPNNh3fh6/GcuYyxphmIEgvqUGF9kVvEFN5HrssHMY2lRGqtxXhgBVw3xBHrXYR12Qeq5/F0x3usoChmdETx7KMJXEpvmyx4JFRYtjlgLYhwhJddtA6GjvqsC6QN6iYesAMrGbQqM2npgxekI2Dn9b2eMxJZmwELq/W641ghs4w2pabd3Q"
+    "Signature":  "WdxGfKaNGplifItv4lwJBYAn/iHdFpOONXMQNJuP/tgW2ZiUhcP2bXqL6t42tsFOGyRdlh2YKgndVZ5BYY0GfJnq2ALl4jW6NufTE1lEkqK3TfK6F7fuVsShAgpPgCA7Y84LegBEDIBd+dZ7nXEGcSW0glZN3Pdm8DM3XlZ+OAGNezE8ZUIqdBxbbgJpIHoy6e4mfCBy34ZWe0Gajrc8Exmn1fe9LsP9zjqvHNMAY4tQQ3ToMLbkiTu1LxqvlhaIZT3i9O7jzSr84qkqqVbNxferYG3OXJNdLyPDSHAmfEgxkWyY9U+CroYk4XL0Nx59HK7JugyXUczgv29e22HkQZGRK+7vAEuxXCEQO1Vhlvmzbj3vfvUhRhvp7trsq6JpINhFcgMKgn45Q0FX8PlGEofm+4PUGHSRXT0mLPJFiY3XUKDKv/Fx68aPXDXUZzviadVflJiE9NviNScyO88LupFW6lYqq36iqeeV+IopAaZmzL5oD1Cn5AjG46kQ1o7O"
 }
