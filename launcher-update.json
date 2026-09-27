@@ -1,8 +1,8 @@
 {
-    "Version":  "1.0.29",
-    "InstallerUrl":  "https://github.com/Marcelo-SLO/los-primos-modpack/releases/download/launcher-v1.0.29/LosPrimosLauncher-Setup-1.0.29.exe",
-    "Sha256":  "CA1EDDFD5089C1A20ED96C84A6B864D47AC32E4B6C3A0844E706B4ECCDE531DB",
-    "Notes":  "- Nova Central de Diagnóstico / Suporte.\r\n- Verificação automática do Minecraft, Fabric e modpack.\r\n- Verificação de integridade dos arquivos por SHA-256.\r\n- Detecção de mods extras ou arquivos alterados.\r\n- Verificação da autorização do grupo privado.\r\n- Teste de conectividade com GitHub e RAW.\r\n- Verificação de espaço em disco, sessão e logs.\r\n- Novo botão COPIAR RELATÓRIO para facilitar o suporte.",
+    "Version":  "1.0.30",
+    "InstallerUrl":  "https://github.com/Marcelo-SLO/los-primos-modpack/releases/download/launcher-v1.0.30/LosPrimosLauncher-Setup-1.0.30.exe",
+    "Sha256":  "D5C1EDC92A6C24F65E5554DA07045876772574BEEB5D72D974B4A3C23E143757",
+    "Notes":  "- Interface refinada e mais nítida.\r\n- Corrigida a renderização de textos e elementos em diferentes tamanhos de janela.\r\n- Melhorada a adaptação da tela HOME ao redimensionar o launcher.\r\n- Os cinco gorilas agora permanecem visíveis e em destaque em janela normal e maximizada.\r\n- Corrigidos pequenos desalinhamentos e bordas da interface.",
     "Mandatory":  false,
-    "Signature":  "kbd7pVR1yfRuJiEBHe+7hjuqieQsX63QuLsejcZv/3ZMnY8xT9x56ax7YtuTA3/PsecSY4cixwjLgPgqFmMRs4YLhoYSeuWAAZmAQh5iUq3XB8A9N34Z7iCJk/gAapehpD1/ZmH8xM496IoeFMbJCpaCMlneJSehX2ZSTYqDbHlyWaTC52XGDc6i9pvr3oGqfTBWGoSuPwKmUvCVa97CJgSgvZn7wyemt4C2bEmokzL/VZjTk0imT3QBgkdy4JaOVYJUQUQt98dVLAZ3Sr8dRHla1iooS1pIbssX+4Ts3Yx4W1N19q5/zT1QIIZryVKROAPj7M+VRmhDvFDLyIO5KjSPBDV2vQa2DdzzWnL9PCX9EP5M1m7MqPwWFfLmwIJt3Pvu/fumbKZmdL0hRMusoLVxwqgW55FNaRQH/wzJtn95qjIfqz9Gq4vPwRvfUn5owWXZXIfhCNd6XWMYMRKFHHVtm2ExvexiZpMfMFTYXWHPD5ZMqGKSv73kPogRgRRi"
+    "Signature":  "GqBz275ZAOf1xSqaPJS88/OE+jT6/2bchy7nnB66ukzNIhkzoej7YOoUSroixf4mjAvK5qj0DCEf4EZQxb0VvIrZ5KivvAcgDdI8nTxqwmzds+n5Yaeia8v5kMGu6z47GEYRn/iKiXB/gQHy6fafIPiPaKNgVJ41YSxGyGEOrSMJSo9NR77vxyaYK1NxVMe4T95r+CkUHs+eVdNmHevPcQfGJPIJbtzK3faHHwMK/HH9PuefmDsWhGV1W9TSmJLp3H1ZAAkVXozmDPYR5fK45JubieyJRcbgCLyNJxTGKNXPqeQtkm1KFoZSxABgOTEarNMAdxv0Tg+2nWbPNNh3fh6/GcuYyxphmIEgvqUGF9kVvEFN5HrssHMY2lRGqtxXhgBVw3xBHrXYR12Qeq5/F0x3usoChmdETx7KMJXEpvmyx4JFRYtjlgLYhwhJddtA6GjvqsC6QN6iYesAMrGbQqM2npgxekI2Dn9b2eMxJZmwELq/W641ghs4w2pabd3Q"
 }
